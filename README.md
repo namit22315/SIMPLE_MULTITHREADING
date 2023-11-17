@@ -95,8 +95,8 @@ int main(int argc, char** argv) {
 # Parallel Multithreading Library
 
 ## Contributors:
-- John Doe
-- Jane Smith
+- Pranav Tanwar
+- Namit Jain
 
 ## Contribution Division:
 
