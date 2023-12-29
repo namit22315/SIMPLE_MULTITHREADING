@@ -100,19 +100,17 @@ int main(int argc, char** argv) {
 
 ## Contribution Division:
 
-### Pranav Tanwar(2022368):
-1. Implemented the `thread_func` function for single-threaded execution.
-2. Created the `parallel_for` function for one-dimensional parallelization.
-3. Assisted in testing and debugging the single-threaded and one-dimensional parallelization functionalities.
-
 ### Namit Jain(2022315):
 1. Implemented the `thread_func_2` function for two-dimensional parallelized execution.
 2. Developed the `parallel_for` function for two-dimensional parallelization.
 3. Collaborated in optimizing the code and improving overall performance.
 4. Assisted in preparing the documentation and README file.
+5. Implemented the `thread_func` function for single-threaded execution.
+6. Created the `parallel_for` function for one-dimensional parallelization.
+7. Assisted in testing and debugging the single-threaded and one-dimensional parallelization functionalities.
 
 
 
 ## GitHub Repository Link:
 
-https://github.com/namit22315/assignment_5_group_67
+https://github.com/namit22315/SIMPLE_MULTITHREADING
